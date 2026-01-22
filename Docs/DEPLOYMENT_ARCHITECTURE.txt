@@ -1,0 +1,30 @@
+┌─────────────────────────────────────────────────────────────────┐
+│               PERPETUAL ROCA ECOSYSTEM                          │
+├─────────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │                    COSMIC CORE                              │ │
+│  │  • Universal Capsule Registry                               │ │
+│  │  • Deterministic Router (Symbolic + Neural Hybrid)          │ │
+│  │  • Orbital Mechanics Engine with Learning Adaptation        │ │
+│  │  • Self-Expansion Controller                                │ │
+│  └─────────────────────────────────────────────────────────────┘ │
+├─────────────────────────────────────────────────────────────────┤
+│  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ │
+│  │ GROWTH      │ │ EVOLUTION   │ │ EXPANSION   │ │ COLLABORATION│ │
+│  │ ENGINE      │ │ ENGINE      │ │ ENGINE      │ │ ENGINE      │ │
+│  │ • Stage      │ │ • Shadow    │ │ • Code      │ │ • Multi-User│ │
+│  │ transitions │ │ merging     │ │ generation  │ │ sync        │ │
+│  │ • Skill      │ │ • Auto-     │ │ • Feature   │ │ • Capsule   │ │
+│  │ leveling     │ │ proposal    │ │ discovery   │ │ sharing     │ │
+│  │ • Curiosity  │ │ • Pattern   │ │ • Bug fix   │ │ • Team      │ │
+│  │ development │ │ detection   │ │ generation  │ │ workflows   │ │
+│  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘ │
+├─────────────────────────────────────────────────────────────────┤
+│  ┌─────────────────────────────────────────────────────────────┐ │
+│  │                    INTERFACE LAYER                          │ │
+│  │  • Orbital Visualization (3D) with Learning Overlays       │ │
+│  │  • Canvas + Timeline + Capsule Map unified view            │ │
+│  │  • Voice-Driven Interaction with Digital Twin              │ │
+│  │  • Multi-Modal Input/Output (drawing, voice, gesture)      │ │
+│  └─────────────────────────────────────────────────────────────┘ │
+└─────────────────────────────────────────────────────────────────┘

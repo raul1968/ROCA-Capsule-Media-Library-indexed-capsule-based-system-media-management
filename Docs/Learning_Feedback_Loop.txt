@@ -1,0 +1,5 @@
+User Action → ROCA Processing → Learning Update → Expansion Check → System Evolution
+    ↓            ↓                ↓                ↓                ↓
+ Drawing   Capsule creation   Skill level up   New capability   Cosmic growth
+    ↓            ↓                ↓                ↓                ↓
+Voice input  Routing decision  Curiosity increase  Code generation  Orbital shift

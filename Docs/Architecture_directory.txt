@@ -1,0 +1,27 @@
+threadripper-roca/
+├── launch/                    # Launch system
+│   ├── __init__.py
+│   ├── launcher.py           # Main launcher
+│   ├── config_manager.py     # Threadripper-specific config
+│   ├── performance_tuner.py  # Auto-tuning for cores
+│   ├── health_monitor.py     # System health checks
+│   └── profiles/             # Launch profiles
+│       ├── animator.json
+│       ├── researcher.json
+│       ├── studio.json
+│       └── minimal.json
+├── scripts/                  # CLI tools
+│   ├── roca-start            # Unix launcher
+│   ├── roca-start.bat       # Windows launcher  
+│   └── roca-cli.py          # Command line interface
+├── config/
+│   ├── system/
+│   │   ├── numa_config.json
+│   │   ├── thread_affinity.json
+│   │   └── memory_layout.json
+│   └── user/
+│       └── launch_preferences.json
+└── logs/
+    ├── launch/
+    ├── performance/
+    └── crashes/
